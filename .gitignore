@@ -1,0 +1,41 @@
+# --- Python cache files ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# --- Virtual environment folders ---
+.env/
+.venv/
+env/
+venv/
+ENV/
+
+# --- Build / distribution folders ---
+build/
+dist/
+*.egg-info/
+
+# --- Reports and output data ---
+reports/
+*.csv
+*.json
+
+# --- VS Code and IDE settings ---
+.vscode/
+.idea/
+
+# --- OS-specific files ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- Logs and temp files ---
+*.log
+*.tmp
+*.bak
+
+# --- Test and sample files ---
+sample_files/
+tests/__pycache__/
